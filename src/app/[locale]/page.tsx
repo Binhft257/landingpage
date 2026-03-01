@@ -31,7 +31,7 @@ export default async function LocalePage({ params }: LocalePageProps) {
   setRequestLocale(locale);
 
   return (
-    <main className="min-h-screen">
+    <main className="min-h-screen bg-white text-black">
       <Navbar />
       <Hero />
       <FeatureStrip />

@@ -10,7 +10,7 @@ export default function SectionHeading({
   const a = align === "left" ? "text-left" : "text-center";
   return (
     <div className={`${a} mb-10`}>
-      <h2 className="text-3xl md:text-4xl font-extrabold tracking-tight">
+      <h2 className="text-3xl md:text-4xl font-extrabold tracking-tight text-black">
         {title}
       </h2>
       {subtitle ? (
