@@ -1,0 +1,389 @@
+{
+  "nav": {
+    "home": "Home",
+    "solutions": "Solutions",
+    "minigames": "Mini Games",
+    "contact": "Contact",
+    "lang": "English",
+    "langShort": "EN"
+  },
+  "hero": {
+    "title": "Gamify your product.\nBoost engagement & retain customers.",
+    "desc": "Q Gamification helps you integrate gamification into digital products quickly, flexibly, and with measurable results.",
+    "ctaDemo": "View demo",
+    "ctaConsult": "Talk to sales"
+  },
+  "featureStrip": {
+    "items": {
+      "fast": { "title": "Fast", "desc": "Quick integration via SDK & API." },
+      "effective": {
+        "title": "Effective",
+        "desc": "Track engagement and customer retention impact."
+      },
+      "diverse": {
+        "title": "Flexible",
+        "desc": "Works across many products and partner scenarios."
+      }
+    }
+  },
+  "problem": {
+    "title": "Customers don’t return because they lack motivation",
+    "subtitle": "Marketing costs keep rising, but users drop off after only a few sessions.",
+    "items": {
+      "p1": "User acquisition costs are increasing.",
+      "p2": "Low return rates make it hard to build usage habits.",
+      "p3": "Lack of tools to create long-term motivation."
+    }
+  },
+  "modules": {
+    "title": "Gamification — built for real businesses",
+    "subtitle": "Q Gamification lets teams launch proven gamification mechanics without rebuilding everything from scratch.",
+    "items": {
+      "missions": {
+        "title": "Missions",
+        "desc": "Daily quests that drive behavior."
+      },
+      "games": {
+        "title": "Games",
+        "desc": "A rich mini-game library: Spin, Quiz, Puzzle..."
+      },
+      "leaderboard": {
+        "title": "Leaderboard",
+        "desc": "Points, levels, and competitive ranking."
+      },
+      "rewards": {
+        "title": "Rewards",
+        "desc": "Automated vouchers and prize management."
+      },
+      "tracking": {
+        "title": "Analytics",
+        "desc": "Behavior insights and campaign performance tracking."
+      }
+    }
+  },
+  "platform": {
+    "title": "Gamification as a Platform",
+    "desc": "Q Gamification is designed as a multi-tenant platform so multiple products and partners can share one gamification system.",
+    "items": {
+      "tenant": {
+        "title": "Multi-tenant support",
+        "desc": "Manage multiple partners in one platform."
+      },
+      "cms": {
+        "title": "Centralized admin",
+        "desc": "A centralized CMS for operations."
+      },
+      "security": {
+        "title": "Security & compliance",
+        "desc": "Enterprise-grade security to keep user data safe."
+      }
+    }
+  },
+  "why": {
+    "title": "Why choose Q Gamification?",
+    "desc": "Q Gamification delivers an effective way to increase engagement. You focus on your product — Q handles retention.",
+    "stats": {
+      "s1": { "value": "+45%", "label": "30-day customer retention rate." },
+      "s2": {
+        "value": "2.5x",
+        "label": "Higher interaction frequency per user."
+      },
+      "s3": { "value": "< 7 days", "label": "Time to launch a new campaign." }
+    },
+    "cards": {
+      "fast": {
+        "title": "Fast",
+        "desc": "Integrate via SDK & API quickly without impacting your existing system."
+      },
+      "minigames": {
+        "title": "Mini Games",
+        "desc": "Ready-to-run mini games — no dedicated game team required."
+      },
+      "effective": {
+        "title": "Effective",
+        "desc": "Real-time measurement for campaign performance."
+      },
+      "scale": {
+        "title": "Scalable",
+        "desc": "High-load architecture ready for millions of concurrent users."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Results from real campaigns",
+    "subtitle": "See how growth teams improve engagement, conversion, and retention with Q.",
+    "items": [
+      {
+        "text": "Our activation campaigns used to have a completion rate of around 18%. After launching Q, mission completion rose to 47%, and average engagement time increased by 3x.",
+        "name": "Minh Anh Nguyen",
+        "role": "Head of Marketing - FMCG Company",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "We used Q for new-user onboarding. Completion increased from 52% to 81% in just 2 months. Missions and rewards helped users explore the product instead of dropping off.",
+        "name": "Quang Huy Tran",
+        "role": "Product Manager - EdTech Platform",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "Our engineering team integrated Q via API in under a week. Clear docs, stable SDK, and strong performance during a campaign with 120,000+ participants.",
+        "name": "Duc Thanh Le",
+        "role": "Tech Lead - Fintech Company",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "Before Q, our referral push felt like a one-off promo. With mission-based referrals, share-to-signup conversion improved by 38% and we saw steadier daily invites instead of spikes.",
+        "name": "Thu Ha Pham",
+        "role": "Growth Lead - Consumer App",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "Q helped us re-engage dormant users with segmented missions. Reactivation rate increased from 6.5% to 14.2%, and churn in the following month dropped noticeably.",
+        "name": "Tuan Kiet Vo",
+        "role": "CRM Manager - E-commerce Platform",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "We ran a 14-day streak challenge using Q. Daily active participation averaged 62% of eligible users, and our weekly retention improved by 19% compared to the previous cohort.",
+        "name": "Linh Chi Do",
+        "role": "Retention Manager - Lifestyle Service",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "For a seasonal campaign, Q's leaderboard and rewards made a big difference. Purchase frequency increased by 1.4x and the campaign ROI beat our baseline by 27%.",
+        "name": "Bao Long Nguyen",
+        "role": "Campaign Director - Retail Brand",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "We replaced a long tutorial with progressive missions in Q. Support tickets related to onboarding dropped by 22%, and users reached the ‘first success’ action much faster.",
+        "name": "Mai Khoa Le",
+        "role": "Customer Success - SaaS Product",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "Localization was smooth for our bilingual audience. With Q, engagement from the non-default language segment increased by 31% without extra engineering work.",
+        "name": "Khanh Vy Truong",
+        "role": "Regional Marketing - Media Platform",
+        "brand": "Master Wire"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing that scales with growth",
+    "subtitle": "Q scales with your impact. As your users and behaviors grow, Q grows with you.",
+    "columns": {
+      "plan": "Plan",
+      "starter": { "name": "Starter", "desc": "For startups & pilot stage" },
+      "growth": { "name": "Growth ★", "desc": "For scaling products" },
+      "enterprise": {
+        "name": "Enterprise",
+        "desc": "For large systems & custom needs"
+      }
+    },
+    "table": {
+      "rows": [
+        {
+          "label": "MAU",
+          "starter": "≤ 10,000",
+          "growth": "≤ 100,000",
+          "enterprise": "Unlimited"
+        },
+        {
+          "label": "Events/month",
+          "starter": "50,000",
+          "growth": "500,000",
+          "enterprise": "Custom/High-volume"
+        },
+
+        {
+          "label": "Core mission tools",
+          "starter": "✓",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Basic rewards system",
+          "starter": "✓",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Progress tracking",
+          "starter": "✓",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Standard dashboard",
+          "starter": "✓",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+
+        {
+          "label": "Multi-journey support",
+          "starter": "—",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Advanced mission logic",
+          "starter": "—",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "label": "A/B testing for missions",
+          "starter": "—",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Advanced analytics",
+          "starter": "—",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+
+        {
+          "label": "Extended webhook & API",
+          "starter": "Limited",
+          "growth": "Full",
+          "enterprise": "Full + Custom"
+        },
+        {
+          "label": "Real-time scoring",
+          "starter": "—",
+          "growth": "Optional",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Custom reward logic",
+          "starter": "Limited",
+          "growth": "Limited",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Multi-product integration",
+          "starter": "—",
+          "growth": "Optional",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Raw data export",
+          "starter": "—",
+          "growth": "Limited",
+          "enterprise": "Full"
+        },
+
+        {
+          "label": "White-label SDK",
+          "starter": "—",
+          "growth": "—",
+          "enterprise": "✓"
+        },
+        {
+          "label": "On-prem / Private Cloud",
+          "starter": "—",
+          "growth": "—",
+          "enterprise": "✓"
+        },
+
+        {
+          "label": "SLA",
+          "starter": "Standard",
+          "growth": "24h response",
+          "enterprise": "99.9%+"
+        },
+        {
+          "label": "Dedicated technical support",
+          "starter": "—",
+          "growth": "—",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Custom feature development",
+          "starter": "—",
+          "growth": "—",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Security assessment support",
+          "starter": "—",
+          "growth": "—",
+          "enterprise": "✓"
+        }
+      ]
+    },
+    "priceRow": {
+      "label": "Price",
+      "monthlyFrom": "Monthly from",
+      "starterPrice": "9M VND",
+      "growthPrice": "29M VND",
+      "enterprisePrice": "Contact",
+      "starterCta": "Start a pilot",
+      "growthCta": "Talk to sales",
+      "enterpriseCta": "Contact us"
+    }
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "subtitle": "Answers to common customer questions.",
+    "items": {
+      "q1": {
+        "q": "Is Q Gamification a \"game\"?",
+        "a": "No. Q Gamification is a quest-based engagement platform — not an entertainment game."
+      },
+      "q2": {
+        "q": "What types of businesses is it for?",
+        "a": "Ideal for B2B, B2C, and Enterprise teams that want to boost engagement for customers, employees, or partners."
+      },
+      "q3": {
+        "q": "Do we need engineers to operate it?",
+        "a": "Not necessarily. Tenants can monitor, measure, and optimize campaigns without deep technical involvement."
+      },
+      "q4": {
+        "q": "How do you measure effectiveness?",
+        "a": "Real-time dashboards: quest completion, participation level, repeat behavior, and actionable insights."
+      },
+      "q5": {
+        "q": "Can it integrate with existing systems?",
+        "a": "Yes. Q provides API & SDK to integrate with CRM, apps, websites, or internal systems."
+      },
+      "q6": {
+        "q": "Is the data secure?",
+        "a": "Yes. Built with enterprise-grade security, tenant-based access control, and best-practice compliance."
+      },
+      "q7": {
+        "q": "How long does implementation take?",
+        "a": "Typically 1–2 weeks for a standard campaign, faster if your integrations are ready."
+      },
+      "q8": {
+        "q": "Is there a trial or demo?",
+        "a": "Yes. You can request a demo to experience the platform and preview sample dashboards."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to gamify your product?",
+    "subtitle": "Start transforming user experience today.",
+    "demo": "Request a demo",
+    "consult": "Talk to sales"
+  },
+  "footer": {
+    "brand": "Master Wire",
+    "about": "At Q Gamification, we treat your customers as our customers — every interaction is a designed journey that drives real outcomes.",
+    "contactTitle": "Contact us",
+    "hotline": "Hotline",
+    "email": "Email",
+    "address": "Address",
+    "subscribeTitle": "Subscribe for updates",
+    "subscribeDesc": "Leave your info to receive important announcements.",
+    "emailPlaceholder": "Enter your email",
+    "subscribeBtn": "Subscribe",
+    "copyright": "© 2026 Q Gamification. All rights reserved.",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service"
+  }
+}

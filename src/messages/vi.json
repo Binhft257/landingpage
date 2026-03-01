@@ -1,0 +1,405 @@
+{
+  "nav": {
+    "home": "Trang Chủ",
+    "solutions": "Giải Pháp",
+    "minigames": "Mini Games",
+    "contact": "Liên Hệ",
+    "lang": "Tiếng Việt",
+    "langShort": "VI"
+  },
+  "hero": {
+    "title": "Trò chơi hóa sản phẩm của bạn.\nTăng cường sự tương tác & giữ chân khách hàng.",
+    "desc": "Q Gamification là nền tảng giúp bạn tích hợp gamification vào sản phẩm số nhanh chóng, linh hoạt và đo lường được sự hiệu quả.",
+    "ctaDemo": "Xem demo",
+    "ctaConsult": "Liên hệ tư vấn"
+  },
+  "featureStrip": {
+    "items": {
+      "fast": {
+        "title": "Nhanh Chóng",
+        "desc": "Tích hợp nhanh qua SDK & API."
+      },
+      "effective": {
+        "title": "Hiệu Quả",
+        "desc": "Theo dõi sự tương tác và hiệu quả giữ chân khách hàng."
+      },
+      "diverse": {
+        "title": "Đa Dạng",
+        "desc": "Linh hoạt cho nhiều sản phẩm, nhiều đối tác khác nhau."
+      }
+    }
+  },
+  "problem": {
+    "title": "Khách hàng không quay lại vì thiếu động lực",
+    "subtitle": "Chi phí marketing ngày càng đắt đỏ, nhưng người dùng rời bỏ ứng dụng sau vài lần sử dụng.",
+    "items": {
+      "p1": "Chi phí thu hút người dùng ngày càng cao.",
+      "p2": "Tỷ lệ quay lại thấp, khó xây dựng thói quen sử dụng.",
+      "p3": "Thiếu công cụ tạo động lực dài hạn cho người dùng."
+    }
+  },
+  "modules": {
+    "title": "Gamification – nhưng theo cách doanh nghiệp cần",
+    "subtitle": "Q Gamification giúp doanh nghiệp triển khai các cơ chế gamification đã được chứng minh sự hiệu quả, không cần tốn công sức xây dựng từ đầu.",
+    "items": {
+      "missions": {
+        "title": "Nhiệm Vụ",
+        "desc": "Hệ thống nhiệm vụ hàng ngày thúc đẩy hành vi."
+      },
+      "games": {
+        "title": "Trò Chơi",
+        "desc": "Kho mini games phong phú: Spin, Quiz, Puzzle..."
+      },
+      "leaderboard": {
+        "title": "Xếp Hạng",
+        "desc": "Points, Levels và bảng xếp hạng cạnh tranh."
+      },
+      "rewards": {
+        "title": "Phần Thưởng",
+        "desc": "Kho vouchers và quà tặng tự động hoá."
+      },
+      "tracking": {
+        "title": "Theo Dõi",
+        "desc": "Phân tích hành vi khách hàng & hiệu quả chiến dịch."
+      }
+    }
+  },
+  "platform": {
+    "title": "Gamification as a Platform",
+    "desc": "Q Gamification được thiết kế như một nền tảng đa tenant, cho phép nhiều sản phẩm, nhiều đối tác sử dụng chung một hệ thống gamification.",
+    "items": {
+      "tenant": {
+        "title": "Hỗ trợ đa Tenant",
+        "desc": "Quản lý nhiều đối tác trên một nền tảng duy nhất."
+      },
+      "cms": {
+        "title": "Quản trị tập trung",
+        "desc": "CMS quản trị tập trung."
+      },
+      "security": {
+        "title": "Bảo mật & Tuân thủ",
+        "desc": "Bảo mật chuẩn Enterprise, đảm bảo an toàn dữ liệu người dùng."
+      }
+    }
+  },
+  "why": {
+    "title": "Tại sao chọn Q Gamification?",
+    "desc": "Q Gamification mang tới một giải pháp hiệu quả trong việc tăng tương tác với khách hàng. Bạn tập trung phát triển sản phẩm – Q Gamification sẽ giữ chân khách hàng giúp bạn.",
+    "stats": {
+      "s1": {
+        "value": "+45%",
+        "label": "Tỷ lệ giữ chân khách hàng sau 30 ngày."
+      },
+      "s2": {
+        "value": "2.5x",
+        "label": "Tăng tần suất tương tác của mỗi người dùng."
+      },
+      "s3": {
+        "value": "< 7 ngày",
+        "label": "Thời gian tích hợp cho một chiến dịch mới."
+      }
+    },
+    "cards": {
+      "fast": {
+        "title": "Nhanh Chóng",
+        "desc": "Tích hợp SDK & API nhanh chóng, không ảnh hưởng tới hệ thống hiện tại."
+      },
+      "minigames": {
+        "title": "Mini Games",
+        "desc": "Kho mini game phong phú sẵn sàng triển khai, không cần đội ngũ phát triển game riêng."
+      },
+      "effective": {
+        "title": "Hiệu Quả",
+        "desc": "Hệ thống đo lường sự hiệu quả của các chiến dịch theo thời gian thực."
+      },
+      "scale": {
+        "title": "Mở Rộng",
+        "desc": "Hệ thống chịu tải cao, sẵn sàng phục vụ hàng triệu người dùng đồng thời."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Kết quả từ các chiến dịch thực tế",
+    "subtitle": "Xem cách các nhóm tăng trưởng nâng cao tương tác, tỷ lệ chuyển đổi và tỷ lệ giữ chân khách hàng với Q.",
+    "items": [
+      {
+        "text": "Trước đây các chiến dịch activation của chúng tôi có tỷ lệ hoàn thành chỉ khoảng 18%. Sau khi triển khai Q, tỷ lệ hoàn thành nhiệm vụ tăng lên 47%, thời gian tương tác trung bình tăng đến 3 lần.",
+        "name": "Nguyễn Minh Anh",
+        "role": "Head of Marketing - Công ty FMCG",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "Chúng tôi triển khai Q cho chương trình onboarding người dùng mới. Kết quả là tỷ lệ hoàn thành onboarding tăng từ 52% lên 81% chỉ trong 2 tháng. Hệ thống nhiệm vụ và phần thưởng giúp người dùng chủ động khám phá sản phẩm thay vì bỏ giữa chừng.",
+        "name": "Trần Quang Huy",
+        "role": "Product Manager - Nền tảng EdTech",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "Đội kỹ thuật của chúng tôi tích hợp Q trong vài tuần qua API trong vòng chưa đầy 1 tuần. Tài liệu rõ ràng, SDK ổn định và hệ thống chịu tải tốt trong chiến dịch với hơn 120.000 lượt tham gia.",
+        "name": "Lê Đức Thành",
+        "role": "Tech Lead - Công ty Fintech",
+        "brand": "Master Wire"
+      },
+
+      {
+        "text": "Trước đây chiến dịch giới thiệu của chúng tôi giống như một chương trình khuyến mãi ngắn hạn. Khi chuyển sang referral theo dạng nhiệm vụ với Q, tỷ lệ chuyển đổi từ chia sẻ sang đăng ký tăng 38%, và số lượt mời mỗi ngày ổn định hơn thay vì tăng vọt theo từng đợt.",
+        "name": "Phạm Thu Hà",
+        "role": "Growth Lead - Ứng dụng tiêu dùng",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "Q giúp chúng tôi tái tương tác người dùng lâu ngày không hoạt động bằng các nhiệm vụ theo phân khúc. Tỷ lệ quay lại tăng từ 6,5% lên 14,2%, đồng thời tỷ lệ rời bỏ trong tháng tiếp theo giảm rõ rệt.",
+        "name": "Võ Tuấn Kiệt",
+        "role": "CRM Manager - Nền tảng Thương mại điện tử",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "Chúng tôi triển khai thử thách streak 14 ngày với Q. Tỷ lệ tham gia hằng ngày trung bình đạt 62% trong nhóm đủ điều kiện, và tỷ lệ giữ chân theo tuần tăng 19% so với cohort trước đó.",
+        "name": "Đỗ Linh Chi",
+        "role": "Retention Manager - Dịch vụ Lifestyle",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "Trong một chiến dịch theo mùa, bảng xếp hạng và phần thưởng của Q tạo khác biệt rất lớn. Tần suất mua hàng tăng 1,4 lần và ROI của chiến dịch vượt baseline 27%.",
+        "name": "Nguyễn Bảo Long",
+        "role": "Campaign Director - Thương hiệu bán lẻ",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "Chúng tôi thay một hướng dẫn dài bằng các nhiệm vụ tiến dần trong Q. Số ticket hỗ trợ liên quan đến onboarding giảm 22%, và người dùng đạt được hành động ‘thành công đầu tiên’ nhanh hơn đáng kể.",
+        "name": "Lê Mai Khoa",
+        "role": "Customer Success - Sản phẩm SaaS",
+        "brand": "Master Wire"
+      },
+      {
+        "text": "Việc bản địa hóa cho nhóm người dùng song ngữ diễn ra rất mượt. Với Q, mức độ tương tác của nhóm dùng ngôn ngữ không phải mặc định tăng 31% mà không cần thêm nhiều công sức từ đội kỹ thuật.",
+        "name": "Trương Khánh Vy",
+        "role": "Regional Marketing - Nền tảng Media",
+        "brand": "Master Wire"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Chi phí dựa trên tăng trưởng",
+    "subtitle": "Q mở rộng theo mức độ tác động của bạn. Khi sản phẩm của bạn tăng người dùng và hành vi, Q tăng cùng bạn.",
+    "columns": {
+      "plan": "Loại gói",
+      "starter": {
+        "name": "Khởi Đầu",
+        "desc": "Dành cho startup & giai đoạn pilot"
+      },
+      "growth": {
+        "name": "Tăng Trưởng ★",
+        "desc": "Dành cho sản phẩm đang scale"
+      },
+      "enterprise": {
+        "name": "Doanh Nghiệp",
+        "desc": "Dành cho hệ thống lớn, tuỳ chỉnh"
+      }
+    },
+    "table": {
+      "rows": [
+        {
+          "label": "MAU",
+          "starter": "≤ 10.000",
+          "growth": "≤ 100.000",
+          "enterprise": "Không giới hạn"
+        },
+        {
+          "label": "Số sự kiện/tháng",
+          "starter": "50.000",
+          "growth": "500.000",
+          "enterprise": "Custom/High-volume"
+        },
+
+        {
+          "label": "Công cụ nhiệm vụ lõi",
+          "starter": "✓",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Hệ thống phần thưởng cơ bản",
+          "starter": "✓",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Theo dõi tiến trình",
+          "starter": "✓",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Bảng điều khiển tiêu chuẩn",
+          "starter": "✓",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+
+        {
+          "label": "Hỗ trợ nhiều hành trình",
+          "starter": "—",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Logic nhiệm vụ nâng cao",
+          "starter": "—",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Thử nghiệm A/B cho nhiệm vụ",
+          "starter": "—",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Phân tích nâng cao",
+          "starter": "—",
+          "growth": "✓",
+          "enterprise": "✓"
+        },
+
+        {
+          "label": "Webhook & API mở rộng",
+          "starter": "Giới hạn",
+          "growth": "Đầy đủ",
+          "enterprise": "Đầy đủ + Tuỳ chỉnh"
+        },
+        {
+          "label": "Chấm điểm thời gian thực",
+          "starter": "—",
+          "growth": "Optional",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Tuỳ chỉnh logic phần thưởng",
+          "starter": "Giới hạn",
+          "growth": "Giới hạn",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Tích hợp đa sản phẩm",
+          "starter": "—",
+          "growth": "Optional",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Xuất dữ liệu (thô)",
+          "starter": "—",
+          "growth": "Giới hạn",
+          "enterprise": "Đầy đủ"
+        },
+
+        {
+          "label": "White-label SDK",
+          "starter": "—",
+          "growth": "—",
+          "enterprise": "✓"
+        },
+        {
+          "label": "On-prem / Private Cloud",
+          "starter": "—",
+          "growth": "—",
+          "enterprise": "✓"
+        },
+
+        {
+          "label": "SLA",
+          "starter": "Tiêu chuẩn",
+          "growth": "24h response",
+          "enterprise": "99.9%+"
+        },
+        {
+          "label": "Hỗ trợ kỹ thuật riêng",
+          "starter": "—",
+          "growth": "—",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Phát triển tính năng tuỳ chỉnh",
+          "starter": "—",
+          "growth": "—",
+          "enterprise": "✓"
+        },
+        {
+          "label": "Hỗ trợ đánh giá bảo mật",
+          "starter": "—",
+          "growth": "—",
+          "enterprise": "✓"
+        }
+      ]
+    },
+    "priceRow": {
+      "label": "Giá",
+      "monthlyFrom": "Hàng tháng từ",
+      "starterPrice": "9 triệu",
+      "growthPrice": "29 triệu",
+      "enterprisePrice": "Liên hệ",
+      "starterCta": "Bắt đầu Pilot",
+      "growthCta": "Liên hệ tư vấn",
+      "enterpriseCta": "Trao đổi thêm"
+    }
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp",
+    "subtitle": "Giải đáp các câu hỏi thường gặp của khách hàng.",
+    "items": {
+      "q1": {
+        "q": "Q Gamification có phải là \"game\" không?",
+        "a": "Không. Q Gamification là nền tảng thiết kế Quest giúp tăng tương tác và giữ chân khách hàng — không phải trò chơi giải trí."
+      },
+      "q2": {
+        "q": "Nền tảng này phù hợp với loại doanh nghiệp nào?",
+        "a": "Phù hợp với doanh nghiệp B2B, B2C, và Enterprise muốn tăng engagement cho khách hàng, nhân viên, hoặc đối tác."
+      },
+      "q3": {
+        "q": "Có cần đội kỹ thuật để vận hành không?",
+        "a": "Không bắt buộc. Tenant có thể theo dõi, đo lường và tối ưu chiến dịch mà không cần can thiệp kỹ thuật sâu."
+      },
+      "q4": {
+        "q": "Q Gamification đo lường hiệu quả như thế nào?",
+        "a": "Hệ thống cung cấp dashboard theo thời gian thực: tỷ lệ hoàn thành Quest, mức độ tham gia, hành vi lặp lại và insight gợi ý."
+      },
+      "q5": {
+        "q": "Có tích hợp với hệ thống hiện tại không?",
+        "a": "Có. Q Gamification hỗ trợ API & SDK để tích hợp với CRM, app, website hoặc hệ thống nội bộ."
+      },
+      "q6": {
+        "q": "Dữ liệu có an toàn không?",
+        "a": "Có. Hệ thống được thiết kế theo tiêu chuẩn enterprise-grade security, phân quyền theo tenant và tuân thủ best practices về bảo mật."
+      },
+      "q7": {
+        "q": "Thời gian triển khai mất bao lâu?",
+        "a": "Thông thường từ 1–2 tuần cho một chiến dịch tiêu chuẩn, nhanh hơn nếu đã có sẵn hệ thống tích hợp."
+      },
+      "q8": {
+        "q": "Có dùng thử hoặc demo không?",
+        "a": "Có. Bạn có thể đăng ký demo để trải nghiệm nền tảng và xem dashboard mẫu."
+      }
+    }
+  },
+  "cta": {
+    "title": "Sẵn sàng gamify sản phẩm của bạn?",
+    "subtitle": "Bắt đầu hành trình chuyển đổi trải nghiệm người dùng ngay hôm nay.",
+    "demo": "Yêu cầu demo",
+    "consult": "Liên hệ tư vấn"
+  },
+  "footer": {
+    "brand": "Master Wire",
+    "about": "Tại Q Gamification, chúng tôi luôn coi khách hàng của doanh nghiệp cũng chính là khách hàng của mình — và mọi tương tác đều là một mục tiêu xây dựng được thiết kế sẵn trong cơ chế và mang lại giá trị thực.",
+    "contactTitle": "Liên hệ với chúng tôi",
+    "hotline": "Hotline",
+    "email": "Email",
+    "address": "Địa chỉ",
+    "subscribeTitle": "Đăng ký nhận thông báo",
+    "subscribeDesc": "Để lại thông tin của bạn để nhận được các thông báo quan trọng.",
+    "emailPlaceholder": "Nhập email của bạn",
+    "subscribeBtn": "Đăng ký",
+    "copyright": "© Bản quyền 2026 Q Gamification. Mọi quyền được bảo lưu.",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản dịch vụ"
+  }
+}
